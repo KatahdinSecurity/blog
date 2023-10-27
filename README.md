@@ -1,2 +1,3 @@
 # blog
-Code snippets to accompany blog articles.
+
+These are code snippets to accompany blog articles on [The Katahdin Security Blog](https://katahdinsecurity.com/blog)
